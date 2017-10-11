@@ -1,4 +1,5 @@
 *.zip
 *.app
-data
+data*
 default_data
+run*
